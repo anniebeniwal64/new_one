@@ -6,5 +6,5 @@ while(a<10):
     s=a+b
     a=b
     b=s
-    print(s)
+    print("fibonacci series{} ".format(s))
     
